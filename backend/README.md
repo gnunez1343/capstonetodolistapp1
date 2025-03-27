@@ -1,4 +1,4 @@
-react – Core React Library Purpose: The main library for building user interfaces using components and state management.
+React – Core React Library Purpose: The main library for building user interfaces using components and state management.
 
 Why I used it:
 
